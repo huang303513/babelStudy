@@ -1,2 +1,5 @@
-[手把手教你用npm发布一个包](https://www.jianshu.com/p/36d3e0e00157)</br>
-[手把手教你使用nodejs编写cli命令](https://juejin.im/post/5bd90d3ce51d4579362b0390)</br>
+[babel 官网](https://www.babeljs.cn/docs/)
+
+[babel handlebook](https://github.com/jamiebuilds/babel-handbook)
+
+[不容错过的 Babel7 知识](https://juejin.cn/post/6844904008679686152)
